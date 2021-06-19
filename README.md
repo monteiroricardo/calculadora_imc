@@ -32,7 +32,7 @@ Tecnologias
 # Baixar aplicativo 📲
  :exclamation: Nota: O apk disponível para download é um apk grande que funciona na maioria das arquiteturas android. Se você  quiser um apk de tamanho pequeno, clone este repositório e gere um usando o Android Studio ou Visual Studio Code.
 
-<a href="">
+<a href="https://github.com/monteiroricardo/calculadora_imc/blob/master/assets/github/app.apk">
 <img src="assets/github/dowload.png" width="255" height="90" />
 </ a>
 
